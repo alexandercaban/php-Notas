@@ -1,0 +1,59 @@
+*{
+	/*font: bold 14px verdana, sans-serif;*/
+    font-family: 'Open Sans', sans-serif;
+    color: #777;
+}
+
+
+.login{
+	padding: 18px;
+	height: 100px;
+	background: #f3fbfd;
+	box-shadow: 2px 3px 5px #bcccd0;
+	color: #01A9DB;
+	
+}
+.loginpunt{
+		margin-left: 35%;
+}
+
+
+.formulario{
+	margin-left: 35%;
+	padding: 25px;
+	width: 350px;
+	height: 490px;
+	box-shadow: 2px 2px 4px #bcccd0;
+	border-radius: 0px 0px 30px 30px;
+}
+
+.cadacuadro{
+	margin: 10px;
+	padding: 20px;	
+	border-radius: 5px;
+	background: #01A9DB;
+	font-size:15px;
+	color: #f3fbfd;
+}
+
+.bienvenida{
+	margin-right:50px;
+	font-size:20px;
+	float: right;
+	
+}
+
+
+.mensaje{
+    padding-top: 5px;
+	font-size:12px;
+	float: right;
+	color: #FF0000;
+}
+
+.mensajeexito{
+
+    padding-top: 5px;
+	font-size:12px;
+	color: #01A9DB;
+}
